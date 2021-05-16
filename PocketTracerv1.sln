@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PocketTracerv1", "PocketTracerv1\PocketTracerv1.csproj", "{2494592F-542B-478E-899B-64D5CBCB670B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2494592F-542B-478E-899B-64D5CBCB670B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2494592F-542B-478E-899B-64D5CBCB670B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2494592F-542B-478E-899B-64D5CBCB670B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2494592F-542B-478E-899B-64D5CBCB670B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B2958E63-B8B2-41B2-B1BD-5E9A9FB1FDC8}
+	EndGlobalSection
+EndGlobal
